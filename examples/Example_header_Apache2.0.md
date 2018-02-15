@@ -1,7 +1,6 @@
-#   Example snippet for a C/C++ file header licensed under the Apache
-#   2.0 license.
-
-#   See also: https://www.apache.org/licenses/LICENSE-2.0
+#   Example 
+C/C++ file header licensed under the Apache 2.0 license.
+See also: https://www.apache.org/licenses/LICENSE-2.0
 
 ```
 /*
