@@ -20,7 +20,7 @@ The Free Software Foundation Europe has created a document on software reuse tha
 
 ## License and Copyright
 
-Copyright &copy; Pelagicore AB 2017
+SPDX-FileCopyrightText: © Copyright 2017 Pelagicore AB <info@pelagicore.com>
 
 This work is licensed under the Creative Commons
 Attribution-ShareAlike 4.0 International License. To view a copy of

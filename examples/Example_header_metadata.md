@@ -3,7 +3,7 @@ This file provides example code to be put in a file that may or may not reach th
 
 ```
 #
-#   Copyright (C) 2017 Pelagicore AB
+#   SPDX-FileCopyrightText: © Copyright 2017 Pelagicore AB <info@pelagicore.com>
 #   SPDX-License-Identifier: MIT
 #
 ```
